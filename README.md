@@ -1,2 +1,3 @@
-# weave-fcrm-tribute-styles
-Custom site specific styles for the FireHawk CRM Tributes
+# Weave / FireHawk CRM Tributes - SIte Specific CSS Styles
+
+Custom site specific css styles for the FireHawk CRM Tributes
