@@ -2,4 +2,4 @@
 
 Custom site specific css styles for the FireHawk CRM Tributes
 
-Add you site specific css to 'css/weave-fcrm-tributes.css'
+Using your code editor add you site specific css to 'css/weave-fcrm-tributes.css'
