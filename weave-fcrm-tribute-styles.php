@@ -3,7 +3,7 @@
 Plugin Name: Weave / FireHawk CRM Tributes - Site Specific CSS
 Description: Site Specific css styles for the FireHawk CRM Tributes Plugin.
 Version: 1.0
-Author: Your Name
+Author: Weave Digital
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
