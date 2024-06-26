@@ -1,0 +1,107 @@
+/* Hope & Sons Buttons */
+.fcrm-search-bar .btn.btn-primary.submit-btn {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  background-color: transparent;
+  color: #4C5A52;
+  border: 1px solid var(--nandor);
+  border-radius: 1rem;
+  padding: 0.375rem 0.75rem;
+  line-height: 1.5;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.fcrm-search-bar .btn.btn-primary.submit-btn:hover {
+  background-color: var(--nandor);
+  color: #ffffff;
+}
+
+.fcrm-search-bar .btn.btn-primary.submit-btn::after {
+  content: "\e907";
+  font-family: 'hopeandsons-icons';
+  margin-left: 8px;
+  font-size: 16px;
+  vertical-align: middle;
+}
+
+/* Grid */
+.firehawk-crm.firehawk-crm-large-grid .grid-item .title {
+  color: var(--nandor);
+  font-size: 20px !important;
+}
+
+.firehawk-crm.firehawk-crm-large-grid .grid-item .dates {
+  color: var(--nandor);
+}
+
+.firehawk-crm.firehawk-crm-large-grid .grid-item {
+  border: 1px solid var(--nandor);
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(76, 90, 82, 0.3);
+  overflow: hidden;
+  padding: 15px;
+}
+
+.firehawk-crm.firehawk-crm-large-grid .grid-item.linked:hover {
+  background-color: rgba(137, 150, 143, 0.1);
+}
+
+/* Search Box */
+.firehawk-crm-tributes .fcrm-search-bar input {
+  border: 1px solid var(--nandor);
+  border-radius: 1rem;
+  margin-right: 10px;
+}
+
+/* Date Picker */
+.firehawk-crm-tributes .date-picker .form-control {
+  border: 1px solid var(--nandor);
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.firehawk-crm-tributes .date-picker .icon {
+  width: 50px;
+  padding-left: 6px;
+  border: 1px solid var(--nandor);
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+/* Pagination */
+.fcrm-pagination .fcrm-pagination-pages li {
+  border: 1px solid var(--nandor) !important;
+  background: #89968f !important;
+}
+
+.fcrm-pagination .fcrm-pagination-pages li a {
+  color: var(--nandor) !important;
+}
+
+.fcrm-pagination .fcrm-pagination-pages li.active > a {
+  background: var(--nandor);
+  color: #ffffff !important;
+}
+
+/* Tributes */
+.firehawk-crm-tributes {
+  font-size: 18px;
+}
+
+/* Highlights */
+.btn-check:checked + .firehawk-crm-tributes .btn-primary:focus,
+.btn-check:active + .firehawk-crm-tributes .btn-primary:focus,
+.firehawk-crm-tributes .btn-primary:active:focus,
+.firehawk-crm-tributes .btn-primary.active:focus,
+.show > .firehawk-crm-tributes .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem rgba(137, 150, 143, 0.5) !important;
+}
+
+.firehawk-crm-tributes .form-control:focus {
+  box-shadow: 0 0 0 0.25rem rgba(137, 150, 143, 0.2);
+  border-color: rgba(137, 150, 143, 0.5);
+}
