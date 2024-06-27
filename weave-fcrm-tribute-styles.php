@@ -1,10 +1,16 @@
 <?php
-/*
-Plugin Name: Weave / FireHawk CRM Tributes - Site Specific CSS
-Description: Site Specific css styles for the FireHawk CRM Tributes Plugin.
-Version: 1.0
-Author: Weave Digital
-*/
+/**
+ * Plugin Name:       Weave / FireHawk CRM Tributes - Site Specific CSS
+ * Plugin URI:        https://github.com/weavedigitalstudio/weave-fcrm-tribute-styles
+ * Description:       Enqueue speerate site specific css styles for the FireHawkCRM Tributes Plugin
+ * Version:           1.0.1
+ * Author:            Weave Digital Studio
+ * License:           GPL-3.0
+ * GitHub Plugin URI: https://github.com/weavedigitalstudio/weave-fcrm-tribute-styles
+ * Primary Branch:    main
+ * Requires at least: 6.0
+ * Requires PHP:      7.2
+ */
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
