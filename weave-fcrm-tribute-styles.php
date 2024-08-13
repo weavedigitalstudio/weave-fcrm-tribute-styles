@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Weave / FireHawk CRM Tributes - Site Specific CSS
  * Plugin URI:        https://github.com/weavedigitalstudio/weave-fcrm-tribute-styles
- * Description:       Enqueue speerate site specific css styles for the FireHawkCRM Tributes Plugin
+ * Description:       Enqueue seperate site specific css styles for the FireHawkCRM Tributes Plugin
  * Version:           1.0.1
  * Author:            Weave Digital Studio
  * License:           GPL-3.0
