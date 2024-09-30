@@ -1,5 +1,6 @@
-# Weave / FireHawk CRM Tributes - Site Specific CSS Styles
+# FireHawkCRM Tributes - Site Specific CSS Style Overrides
 
-STARTER TEMPLATE Custom site specific css styles for the FireHawk CRM Tributes
+STARTER TEMPLATE TO CUSTOMISE 
+Custom site specific css style overrides for the FireHawkCRM Tributes
 
-Use your code editor add you site specific css to 'css/weave-fcrm-tributes.css'
+Use your code editor and add you site specific css to 'css/weave-fcrm-tributes.css'
