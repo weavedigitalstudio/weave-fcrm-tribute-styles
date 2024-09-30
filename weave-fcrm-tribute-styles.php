@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name:       Weave / FireHawk CRM Tributes - Site Specific CSS
+ * Plugin Name:       FireHawkCRM Tributes - CSS style overrides starter temaplate
  * Plugin URI:        https://github.com/weavedigitalstudio/weave-fcrm-tribute-styles
- * Description:       Enqueue seperate site specific css styles for the FireHawkCRM Tributes Plugin
- * Version:           1.0.1
+ * Description:       Enqueue site specific css styles for the FireHawkCRM Tributes Plugin
+ * Version:           1.0.2
  * Author:            Weave Digital Studio
  * License:           GPL-3.0
- * GitHub Plugin URI: https://github.com/weavedigitalstudio/weave-fcrm-tribute-styles
+ * GitHub Plugin URI: weavedigitalstudio/weave-fcrm-tribute-styles
  * Primary Branch:    main
  * Requires at least: 6.0
  * Requires PHP:      7.2
